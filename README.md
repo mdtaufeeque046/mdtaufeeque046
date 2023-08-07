@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Md Taufeeque Alam 🧑‍💻
 
 <!--
 **mdtaufeeque046/mdtaufeeque046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+First of all, thanks for visiting my profile. Here, what you should know about me:
+
+- I am a self-driven passionate coder who loves to solve problems and write efficient codes.
+- My primary coding language: Java
+- I am happy to discuss about: Spring, Spring Boot, MySQL, DSA, and Computer concepts like Operating Systems and Computer Networks.
+- 👯 I’m looking to collaborate on Open-Source Project.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
