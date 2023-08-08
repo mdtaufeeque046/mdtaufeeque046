@@ -30,7 +30,7 @@
 <a href="https://codepen.io/mdtaufeeque046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdtaufeeque046" height="30" width="40" /></a>
 <a href="https://dev.to/mdtaufeeque046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdtaufeeque046" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdtaufeeque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdtaufeeque" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/md7870taufeeque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="md7870taufeeque" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/md7870taufeeque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="md7870taufeequea" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdtaufeeque046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdtaufeeque046" height="30" width="40" /></a>
 </p>
 
