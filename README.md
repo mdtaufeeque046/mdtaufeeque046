@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Taufeeque Alam</h1>
+<h1 align="center">Hi 👋, I'm Md Taufeeque Alam 🧑‍💻</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtaufeeque046&label=Profile%20views&color=0e75b6&style=flat" alt="mdtaufeeque046" /> </p>
@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdtaufeeque046](https://github.com/mdtaufeeque046)
 
-- 📫 How to reach me **md7870taufeequea@gmail.com**
+- 💬 Ask me about **tech**
 
-- 📄 Know about my experiences [app.resumai.com/s/bonlBKoi6XPsGIccWiXu](app.resumai.com/s/bonlBKoi6XPsGIccWiXu)
+- 📫 How to reach me **md7870taufeequea@gmail.com**
 
 - ⚡ Fun fact **I love exploring new things**
 
@@ -30,6 +30,7 @@
 <a href="https://codepen.io/mdtaufeeque046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdtaufeeque046" height="30" width="40" /></a>
 <a href="https://dev.to/mdtaufeeque046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdtaufeeque046" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdtaufeeque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdtaufeeque" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@md7870taufeequea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@md7870taufeequea" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdtaufeeque046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdtaufeeque046" height="30" width="40" /></a>
 </p>
 
