@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdtaufeeque046" alt="mdtaufeeque046" /></a> </p>
 
-- 🔭 I’m currently working on **location-management-api**
-
+- 🔭 I’m currently working on [location-management-api](https://bitbucket.org/pantherskill/workspace/repositories)
 - 🌱 I’m currently learning **Spring and Spring Boot**
 
 - 👯 I’m looking to collaborate on **Open-Source Project**
@@ -29,6 +28,7 @@
 <p align="left">
 <a href="https://codepen.io/mdtaufeeque046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdtaufeeque046" height="30" width="40" /></a>
 <a href="https://dev.to/mdtaufeeque046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdtaufeeque046" height="30" width="40" /></a>
+<a href="https://medium.com/@mdtaufeeque046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mdtaufeeque046" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdtaufeeque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdtaufeeque" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@md7870taufeequea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@md7870taufeequea" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdtaufeeque046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdtaufeeque046" height="30" width="40" /></a>
