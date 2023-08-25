@@ -4,19 +4,19 @@
 
 - 🔭 I’m currently working on [location-management-api](https://bitbucket.org/pantherskill/workspace/repositories)
   
-- 🌱 I’m currently learning **Spring and Spring Boot**
+- 🌱 I’m currently learning **Spring and Spring Boot.**
 
-- 👯 I’m looking to collaborate on **Open-Source Project**
+- 👯 I’m looking to collaborate on **Open-Source Project.**
 
-- 🤝 I’m looking for help with **Spring Boot Applications**
+- 🤝 I’m looking for help with **Spring Boot Applications.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdtaufeeque046](https://github.com/mdtaufeeque046)
 
-- 💬 Ask me about **tech**
+- 💬 Ask me about **tech.**
 
 - 📫 How to reach me **md7870taufeequea@gmail.com**
 
-- ⚡ Fun fact **I love exploring new things**
+- ⚡ Fun fact **I love exploring new things.**
 
 
 ## 🌐 Socials:
