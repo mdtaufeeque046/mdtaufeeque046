@@ -1,7 +1,9 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Md Taufeeque Alam 🧑‍💻</h1>
+<h3 align="center">A passionate Software Developer.</h3>
 
 - 🔭 I’m currently working on [location-management-api](https://bitbucket.org/pantherskill/workspace/repositories)
-- 
+  
 - 🌱 I’m currently learning **Spring and Spring Boot**
 
 - 👯 I’m looking to collaborate on **Open-Source Project**
